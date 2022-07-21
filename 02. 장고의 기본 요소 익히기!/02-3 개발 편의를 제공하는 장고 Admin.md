@@ -26,5 +26,6 @@ class QuestionAdmin(admin.ModelAdmin):
 
 admin.site.register(Question, QuestionAdmin)
 ```
-4. 장고 Admin 커스텀    
+4. 장고 Admin 커스텀
+</br>
 장고 공식 문서 (장고 Admin 기능) : https://docs.djangoproject.com/ko/4.0/ref/contrib/admin/
